@@ -18,3 +18,18 @@ Here are some ideas to get you started:
 -->
 
 This is a Padawan JavaEE Developer who is looking to become a Master JavaEE Developer with interests in NoSQL side of the Force. 
+
+:computer: **Currently I** am working on an ERP Web Software, that uses JavaEE, RESTFul API, JPA, AngularJS and SQL.
+
+:eyeglasses: **I'm studying** Java Spring Framework and Docker.
+
+<details>
+  
+  <summary><b>:rocket: I am looking to...</b></summary>
+  
+  ###
+  01. Evolve my Java backend competence, by working with tools like Spring Framework and taking an Oracle certificate
+  10. Work with NoSQL databases and DevOps mindset
+  11. Work in a place that motivates **women in tech** :metal: 
+     
+</details>

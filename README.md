@@ -1,4 +1,4 @@
-# Hello there 
+# Hello there <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Lightsaber_blue.svg" width="48">
 [![Linkedin](https://img.shields.io/badge/Linkedin-123?style=flat&logo=Linkedin&color=blue)](https://www.linkedin.com/in/atorresleticia/)
 [![Twitter](https://img.shields.io/badge/Twitter-123?style=flat&logo=Twitter&color=blue&logoColor=white)](https://twitter.com/atorresleticia_)
 [![Twitter](https://img.shields.io/badge/Facebook-123?style=flat&logo=Facebook&color=blue&logoColor=white)](https://www.facebook.com/atorresleticia)
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a Padawan JavaEE Developer who is looking to become a Master JavaEE Developer with interests in NoSQL side of the Force.
+This is a Padawan JavaEE Developer who is looking to become a Master JavaEE Developer with interests in NoSQL side of the Force. 

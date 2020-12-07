@@ -1,5 +1,7 @@
 # Hello there 
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-123?style=flat&logo=Linkedin&color=blue)](https://www.linkedin.com/in/atorresleticia/)
+[![Twitter](https://img.shields.io/badge/Twitter-123?style=flat&logo=Twitter&color=blue&logoColor=white)](https://twitter.com/atorresleticia_)
+[![Twitter](https://img.shields.io/badge/Facebook-123?style=flat&logo=Facebook&color=blue&logoColor=white)](https://www.facebook.com/atorresleticia)
 <!--
 **atorresleticia/atorresleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

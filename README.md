@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 
 
 <!--
 **atorresleticia/atorresleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is a Padawan JavaEE Developer who is looking to become a Master JavaEE Developer with interests in NoSQL side of the Force.

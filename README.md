@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a Padawan JavaEE Developer who is looking to become a Master JavaEE Developer with interests in NoSQL side of the Force. 
+This is a Padawan Java Developer who is looking to become a Master Java Developer with interests in NoSQL side of the Force. 
 
 :computer: **Currently I** am working on an ERP Web Software, that uses JavaEE, RESTFul API, JPA, AngularJS and SQL.
 

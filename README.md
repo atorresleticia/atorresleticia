@@ -21,7 +21,7 @@ This is a Padawan Java Developer who is looking to become a Master Java Develope
 
 :computer: **Currently I** am working on an ERP Web Software, that uses JavaEE, RESTFul API, JPA, AngularJS and SQL.
 
-:eyeglasses: **I'm studying** Java Spring Framework and Docker.
+:eyeglasses: **I'm studying** Java Spring Framework.
 
 <details>
   

@@ -2,6 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-123?style=flat&logo=Linkedin&color=1670de)](https://www.linkedin.com/in/atorresleticia/)
 [![Twitter](https://img.shields.io/badge/Twitter-123?style=flat&logo=Twitter&color=03b6fc&logoColor=white)](https://twitter.com/atorresleticia_)
 [![Twitter](https://img.shields.io/badge/Facebook-123?style=flat&logo=Facebook&color=blue&logoColor=white)](https://www.facebook.com/atorresleticia)
+[![Telegram](https://img.shields.io/badge/Telegram-123?style=flat&logo=Telegram&color=white&logoColor=white)](https://telegram.me/atorresleticia)
 <!--
 **atorresleticia/atorresleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

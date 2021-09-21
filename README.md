@@ -18,19 +18,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a Padawan Java Developer who is looking to become a Master Java Developer with interests in NoSQL side of the Force. 
+This is a Padawan Developer who is looking to become a Master Developer with interests in Java, C#, NoSQL, DevOps, and other Backend Stack side of the Force. 
 
-:computer: **Currently I** am working on an ERP Web Software, that uses JavaEE, RESTFul API, JPA, AngularJS and SQL.
-
-:eyeglasses: **I'm studying** Java Spring Framework.
+:computer: **I'm currently** working as a Backend Developer at AmbevTech 🍺 on an orchestrator built for ERP integration, using Java microservices and Azure Functions with .NET 👩‍💻
 
 <details>
   
-  <summary><b>:rocket: I am looking to...</b></summary>
+  <summary><b>:rocket: I am looking for...</b></summary>
   
   ###
-  01. Evolve my Java backend competence, by working with tools like Spring Framework and taking an Oracle certificate
-  10. Work with NoSQL databases and DevOps mindset
-  11. Work in a place that motivates **women in tech** :metal: 
+  01. Evolve my Java and C# backend competence
+  10. Did I hear "become a Tech Lead"?
      
 </details>
+
+May the Beer be With You! 🍻 

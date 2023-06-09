@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is a Padawan Developer who is looking to become a Master Developer with interests in Java, C#, NoSQL, DevOps, and other Backend Stack side of the Force. 
+This is a Backend Developer who is looking to become a Master Developer with interests in Java, C#, NoSQL, DevOps, and other Backend Stack side of the Force. 
 
 :computer: **I'm currently** working as a Backend Developer at AmbevTech 🍺 on an orchestrator built for ERP integration, using Java microservices and Azure Functions with .NET 👩‍💻
 
